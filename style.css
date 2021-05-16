@@ -1,0 +1,245 @@
+header   {
+    background-image: url("bgheader.jpg");
+    color: #FFF;
+    padding: 0px 0px;
+    
+  }
+
+  nav     {
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+  }
+
+  nav ul   {
+    list-style: none ;
+    margin: 0;
+  }
+  nav ul li {
+    display: inline-block;
+    font-family: Allan;
+ 
+  }
+  nav ul li a    {
+
+    color: #FFF;
+    text-decoration: none;
+    display:block;
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-size: 30px;
+    transition: 0.3s ease all;
+    padding-right: 150px;
+    padding-left: 150px;
+  }
+  nav ul li a:hover   {
+    background: rgb(37, 9, 114);
+  }
+
+  .Aboutme           {
+    min-height: 1000px;
+    text-align: center;
+    background-image: url('4477492.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+  
+  }
+  .Aboutme1  {
+    color: #FFF;
+    padding-top: 130px;
+    
+  }
+  .Aboutme1  h1   {
+    font-size: 100px;
+    margin: 0;
+    border: 10px solid rgb(0, 0, 0);
+    font-family: Eater;
+    border-radius: 6px;
+    background-image: url("fire-3765073_1920.jpg");
+    color: rgb(0, 0, 0);
+    transition: transform .2s; /* Animation */
+
+  }
+  .Aboutme1  p    {
+    font-size: 60px;
+    font-family: Allan;
+    border: 10px solid rgb(0, 0, 0);
+    border-radius: 6px;
+    background-image: url("OceanHealthBlogFeatured-910x620.jpeg");
+    color: rgb(0, 0, 0);
+    transition: transform .2s; /* Animation */
+  }
+
+  .topic1          {
+    min-height: 1000px;
+    text-align: center;
+    background-image: url('4477648.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+
+ 
+  }
+
+  .topic2  {
+    font-size: 30px;
+    margin: 0;
+    border: 10px solid rgb(0, 0, 0);
+    font-family: Eater;
+    border-radius: 6px;
+    background-image: url("fire-3765073_1920.jpg");
+    color: rgb(0, 0, 0);
+ 
+  }
+ 
+
+  .topic4 h5   {
+    font-size: 30px;
+    color: rgb(104, 3, 3);
+    text-transform: uppercase;
+    font-weight: 300;
+    letter-spacing: 2px;
+    margin: 0;
+    border: 10px solid rgb(0, 0, 0);
+    border-radius: 6px;
+    background-image: url("OceanHealthBlogFeatured-910x620.jpeg");
+    transition: transform .2s; /* Animation */
+  }
+  .topic4:hover {
+    transform: scale(1.2); /* (150% zoom)*/
+  }
+
+  .topic5 h5   {
+    font-size: 30px;
+    color: rgb(104, 3, 3);
+    text-transform: uppercase;
+    font-weight: 300;
+    letter-spacing: 2px;
+    margin: 0;
+    border: 10px solid rgb(0, 0, 0);
+    border-radius: 6px;
+    background-image: url("OceanHealthBlogFeatured-910x620.jpeg");
+    transition: transform .2s; /* Animation */
+  }
+  .topic5:hover {
+    transform: scale(1.2); /* (150% zoom)*/
+  }
+
+  .topic6 h5   {
+    font-size: 30px;
+    color: rgb(104, 3, 3);    
+    text-transform: uppercase;
+    font-weight: 300;
+    letter-spacing: 2px;
+    margin: 0;
+    border: 10px solid rgb(0, 0, 0);
+    border-radius: 6px;
+    background-image: url("OceanHealthBlogFeatured-910x620.jpeg");
+    transition: transform .2s; /* Animation */
+  }
+  .topic6:hover {
+    transform: scale(1.2); /* (150% zoom)*/
+  }
+
+  .topic7  {
+    font-size: 30px;
+    margin: 0;
+    border: 10px solid rgb(0, 0, 0);
+    font-family: Eater;
+    border-radius: 6px;
+    background-image: url("11.jpg");
+    color: rgb(0, 0, 0);
+    transition: transform .2s; /* Animation */
+
+  }
+  .topic7:hover {
+    transform: scale(1.2); /* (150% zoom)*/
+  }
+  .topic8  {
+    font-size: 30px;
+    margin: 0;
+    border: 10px solid rgb(0, 0, 0);
+    font-family: Eater;
+    border-radius: 6px;
+    background-image: url("23.jpg");
+    color: rgb(0, 0, 0);
+    transition: transform .2s; /* Animation */
+
+  }
+  .topic8:hover {
+    transform: scale(1.2); /* (150% zoom)*/
+  }
+  .topic9  {
+    font-size: 30px;
+    margin: 0;
+    border: 10px solid rgb(0, 0, 0);
+    font-family: Eater;
+    border-radius: 6px;
+    background-image: url("3.jpg");
+    color: rgb(0, 0, 0);
+    transition: transform .2s; /* Animation */
+
+  }
+  .topic9:hover {
+    transform: scale(1.2); /* (150% zoom)*/
+  }
+  .topic10  {
+    font-size: 30px;
+    margin: 0;
+    border: 10px solid rgb(0, 0, 0);
+    font-family: Eater;
+    border-radius: 6px;
+    background-image: url("55.jpg");
+    color: rgb(0, 0, 0);
+    transition: transform .2s; /* Animation */
+
+  }
+  .topic10:hover {
+    transform: scale(1.2); /* (150% zoom)*/
+  }
+  .topic11  {
+    font-size: 60px;
+    margin: 0;
+    border: 10px solid rgb(0, 0, 0);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-radius: 6px;
+    background-image: url("2.jpg");
+    color: rgb(0, 0, 0);
+    transition: transform .2s;
+
+  }
+ 
+
+
+  .facebook {
+    padding: 50px;
+    
+    transition: transform .2s; /* Animation */
+ 
+    margin: 0 auto;
+    transition-duration: 0.3s;
+    transition-property: transform;
+}
+  
+  
+
+  .topic11:hover {
+    transform: scale(1.2); 
+  }
+
+  .Aboutme1 h1:hover {
+    transform: scale(1.2); 
+  }
+  .Aboutme1 p:hover {
+    transform: scale(1.05); 
+  }
+  
+
+
+   
+ .facebook:hover {
+    transform: rotate(20deg);
+    -webkit-transform: rotate(20deg);
+}
+
+
+  
